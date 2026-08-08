@@ -2,6 +2,10 @@
 [![Vite](https://img.shields.io/badge/Vite-Frontend-orange?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/) 
 [![javascript](https://img.shields.io/badge/JavaScript-ded416?style=for-the-badge&logo=JavaScript&logoColor=white)]([https://vite.dev/](https://developer.mozilla.org/de/docs/Web/JavaScript)) 
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-24bf2c?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) 
+![Status](https://img.shields.io/badge/status-in--progress-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+![scikit-learn](https://img.shields.io/badge/sklearn-ML-orange)
+![OSMnx](https://img.shields.io/badge/OSMnx-network--data-lightgrey)
 <!--[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-24b2bf?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
 [![Google](https://img.shields.io/badge/Google-gemini-3636cf?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)-->
 [![RoA](https://img.shields.io/badge/RoA%20-Springer-3636cf?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-031-56826-8_10)
