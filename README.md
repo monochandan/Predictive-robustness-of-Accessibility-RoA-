@@ -3,7 +3,7 @@
 [![javascript](https://img.shields.io/badge/JavaScript-ded416?style=for-the-badge&logo=JavaScript&logoColor=white)]([https://vite.dev/](https://developer.mozilla.org/de/docs/Web/JavaScript)) 
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-24bf2c?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) 
 
-![Status](https://img.shields.io/badge/status-in--progress-yellow)
+<!--![Status](https://img.shields.io/badge/status-in--progress-yellow)-->
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![scikit-learn](https://img.shields.io/badge/sklearn-ML-orange)
 ![OSMnx](https://img.shields.io/badge/OSMnx-network--data-lightgrey)
