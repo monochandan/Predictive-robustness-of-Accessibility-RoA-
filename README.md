@@ -33,3 +33,11 @@ This module lets a user select a source and destination (e.g., a residential are
 ![Status](https://img.shields.io/badge/Status-Active%20Development-yellow)
 
 This module allows a user to click any point on the map and get a real-time flood risk estimate for the nearest road segment, using a trained ML classifier (Random Forest / XGBoost) combined with live rainfall data pulled from the Open-Meteo API. Static road/terrain features (elevation, distance to river, road type) are combined with recent rainfall (3-day and 7-day cumulative) to predict flood probability on demand, moving the project from historical flood analysis toward forecast-driven risk assessment. Work in progress.
+
+
+
+https://github.com/user-attachments/assets/b9e4033b-1831-469b-881c-5e4fff66a6b2
+
+
+
+
